@@ -1,0 +1,18 @@
+# --- Python Internals ---
+__pycache__/
+*.py[cod]
+
+# --- Virtual Environment ---
+venv/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- VS Code Settings ---
+.vscode/
+*.code-workspace
+.history/
+
+# --- Windows System Files ---
+Thumbs.db
+Desktop.ini
