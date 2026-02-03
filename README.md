@@ -27,7 +27,10 @@ The repository is organized as follows:
 ├── notebooks/              
 │   ├── 01_reading_and_inspection.ipynb
 │   ├── 02_filtering.ipynb
-│   ├── 03_cleaning.ipynb
-│   └── 04_querying.ipynb
+│   ├── 03_indexing.ipynb
+│   ├── 04_group_by_and_aggregating
+│   ├── 05_merging_dataFrames.ipynb
+│   ├── 06_cleaning.ipynb
+│   └── 07_querying.ipynb
 ├── README.md               
 └── requirements.txt        
