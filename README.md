@@ -30,7 +30,8 @@ The repository is organized as follows:
 │   ├── 03_indexing.ipynb
 │   ├── 04_group_by_and_aggregating
 │   ├── 05_merging_dataFrames.ipynb
-│   ├── 06_cleaning.ipynb
-│   └── 07_querying.ipynb
+│   ├── 06_visualization.ipynb
+│   ├── 07_cleaning.ipynb
+│   └── 08_querying.ipynb
 ├── README.md               
 └── requirements.txt        
