@@ -16,7 +16,7 @@ The primary goal of this project is to master the fundamentals of the Pandas lib
 * **Data Inspection:** Understanding data structure, types, and summary statistics (`.info()`, `.describe()`, `.head()`).
 * **Data Cleaning:** Handling missing values, data type conversion, and duplicates.
 * **Data Selection & Filtering:** Querying specific subsets of data using `.loc`/`.iloc` and boolean indexing.
-* **Aggregation:** Grouping data to derive insights (`groupby`, `pivot_table`).
+* **Aggregation:** Grouping data to derive insights (`groupby`, `join`).
 * **Series & DataFrame Operations:** Performing vectorized operations on dataset columns.
 
 ## 📂 Project Structure
