@@ -25,8 +25,8 @@ The repository is organized as follows:
 ```text
 ├── data/                   
 ├── notebooks/              
-│   ├── 01_reading.ipynb
-│   ├── 02_inspection.ipynb
+│   ├── 01_reading_and_inspection.ipynb
+│   ├── 02_filtering.ipynb
 │   ├── 03_cleaning.ipynb
 │   └── 04_querying.ipynb
 ├── README.md               
