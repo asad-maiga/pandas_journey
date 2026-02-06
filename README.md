@@ -32,6 +32,6 @@ The repository is organized as follows:
 │   ├── 05_merging_dataFrames.ipynb
 │   ├── 06_visualization.ipynb
 │   ├── 07_cleaning.ipynb
-│   └── 08_querying.ipynb
+│   └── 08_eda.ipynb
 ├── README.md               
 └── requirements.txt        
